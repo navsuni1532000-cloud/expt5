@@ -1,2 +1,3 @@
 welcome to jnnce
 jnnces
+modifieding gitbash
